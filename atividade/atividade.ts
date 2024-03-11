@@ -1,6 +1,6 @@
 const multiplicaNumero = (numero1: number, numero2: number): number => numero1 * numero2;
 
-const saudacao = () => "olá!";
+const saudacao = (): string => "olá!";
 
 
 // function saudacao() {
